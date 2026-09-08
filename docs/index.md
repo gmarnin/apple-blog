@@ -1,5 +1,7 @@
 ---
-title: Docs
-nav_order: 1
+title: Documentation
+nav_order: 2
 has_children: true
 ---
+
+# Docs
