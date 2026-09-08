@@ -1,4 +1,4 @@
-title: Apple Blog Testing
+title: EDM Apple Blog
 description: All thing Apple @ RU
 theme: just-the-docs
 
@@ -8,8 +8,8 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
   "Home":
     - https://github.com/
-  "Apple":
-    - https://apple.com/
+  "Support":
+    - "//docs/support.md"
 
 nav_external_links:
   - title: My Link
