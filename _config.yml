@@ -10,3 +10,9 @@ aux_links:
     - https://github.com/
   "Apple":
     - https://apple.com/
+
+nav_external_links:
+  - title: My Link
+    url: https://rutgers.edu
+    hide_icon: false
+    opens_in_new_tab: true
