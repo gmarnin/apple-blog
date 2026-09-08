@@ -1,6 +1,13 @@
+---
+title: Creating Managed Apple Accounts Accounts
+parent: Docs
+nav_order: 1
+---
+
+
 ## Creating Managed Apple Accounts Accounts
 
-Updated 8-25-2026 | Draft Version 1.3 | Marnin Goldberg, OIT EDM
+Updated 9-8-2026 | Draft Version 1.3.0 | Marnin Goldberg, OIT EDM
 
 > The ASM URL is [https://school.apple.com](https://school.apple.com) - Safari or Chrome recommended
 > 
