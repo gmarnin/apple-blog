@@ -9,15 +9,10 @@ aux_links:
   "Home":
     - https://github.com/
   "Support":
-    - "//docs/support.md"
+    - "//github.com/gmarnin/docs/support"
 
 nav_external_links:
   - title: My Link
     url: https://rutgers.edu
     hide_icon: false
     opens_in_new_tab: true
-
----
-title: Apple School Manager (ASM) Accounts
-nav_order: 1
----
