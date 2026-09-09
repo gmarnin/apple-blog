@@ -1,4 +1,9 @@
-# just-the-docs-template
+---
+title: Welcome!
+nav_order: 1
+---
+
+
 
 Welcome to the Rutgers OIT Enterprise Device Management Mac Blog
 
