@@ -10,7 +10,8 @@ nav_order: 2
 
 For Apple support including Apple School Manager (ASM), WorkSpace One (WS1) and Munki (Managed Software Center) 
 
-email mailto:baz-applesupport@foo.edu
+[E-mail](mailto:baz-applesupport@foo.edu) which will automagicall create a ServiceNow Inc 
+
 
 ServiceNow Assignment group:
 `ESD - Enterprise Apple Management`
