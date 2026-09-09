@@ -7,9 +7,11 @@ url: https://gmarnin.github.io/apple-blog
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
   EDM Apple Support:
-    - https://github.com//apple-blog/docs/support"
+    - https://github.com//apple-blog/docs/support
   EDM Apple Support 2:
-    - https://github.com//apple-blog/docs/support.md"
+    - https://github.com//apple-blog/docs/support.md
+  EDM 3:
+    - https://github.com/gmarnin/apple-blog/blob/main/docs/support.md
 
 nav_external_links:
   - title: My Link
