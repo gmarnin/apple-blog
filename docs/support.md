@@ -8,7 +8,7 @@ nav_order: 1
 
 
 
-For Apple support including Apple School Manager (ASM), WorkSpace One (WS1) and Munki (Manaed Software Center) 
+For Apple support including Apple School Manager (ASM), WorkSpace One (WS1) and Munki (Managed Software Center) 
 
 email mailto:baz-applesupport@foo.edu
 
