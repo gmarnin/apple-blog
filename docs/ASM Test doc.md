@@ -1,8 +1,9 @@
 ---
 title: ASM Test doc
-parent: Docs
-nav_order: 2
+parent: Documentation
+nav_order: 1
 ---
+
 
 
 ## Creating Managed Apple Accounts Accounts
