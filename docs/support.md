@@ -1,8 +1,8 @@
 ---
 title: EDM Apple Support
-parent: Main Navigation
 nav_order: 1
 ---
+
 
 # EDM Apple Support
 
