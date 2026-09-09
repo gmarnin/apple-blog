@@ -11,7 +11,7 @@ aux_links_new_tab: true
 
 collections:
 nav_external_links:
-  - title: Resource Links:
+  - title: Resource Links
     hide_icon: true
     
   - title: Sofa Feed
