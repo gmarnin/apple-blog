@@ -10,12 +10,15 @@ aux_links:
 
 nav_external_links:
   - title: Resources
-    url: https://rutgers.edu
-    hide_icon: false
-    opens_in_new_tab: true
+    hide_icon: true
     
   - title: Sofa Feed
     url: https://sofa.macadmins.io
+    hide_icon: false
+    opens_in_new_tab: true
+    
+  - title: Apple
+    url: https://www.apple.com
     hide_icon: false
     opens_in_new_tab: true
 
