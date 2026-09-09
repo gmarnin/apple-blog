@@ -1,4 +1,4 @@
-title: EDM Apple Blog
+title: Enterprise Device Management Apple Blog
 description: All thing Apple @ RU
 theme: just-the-docs
 
@@ -18,8 +18,18 @@ nav_external_links:
     hide_icon: false
     opens_in_new_tab: true
     
-  - title: Apple
-    url: https://www.apple.com
+  - title: Apple School Manager
+    url: https://school.apple.com/
+    hide_icon: false
+    opens_in_new_tab: true
+    
+  - title: Munki Supported Apps
+    url: https://docs.macupdates.rutgers.edu/apps/
+    hide_icon: false
+    opens_in_new_tab: true
+    
+  - title: MunkiReport
+    url: https://macupdates.its.rutgers.edu/munkireport
     hide_icon: false
     opens_in_new_tab: true
 
