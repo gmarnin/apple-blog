@@ -9,6 +9,7 @@ aux_links:
     - https://it.rutgers.edu/enterprise-device-management/
 aux_links_new_tab: true
 
+collections:
 nav_external_links:
   - title: Resources
     hide_icon: true
@@ -32,10 +33,6 @@ nav_external_links:
     url: https://macupdates.its.rutgers.edu/munkireport
     hide_icon: false
     opens_in_new_tab: true
-
-collections:
-  - External Resources
-  - Internal Resources
 
 defaults:
   - scope:
