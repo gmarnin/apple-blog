@@ -9,10 +9,12 @@ aux_links:
   "Home":
     - https://github.com/
   "Support":
-    - "//github.com/gmarnin/docs/support"
+    - "//github.com/apple-blog/docs/support"
 
 nav_external_links:
   - title: My Link
     url: https://rutgers.edu
     hide_icon: false
     opens_in_new_tab: true
+
+
