@@ -16,5 +16,5 @@ For Apple support including Apple School Manager (ASM), WorkSpace One (WS1) and 
 ServiceNow Assignment group:
 `ESD - Enterprise Apple Management`
 
-OIT Slack channel `#macsupport`
+OIT Slack channel <#C06M4N8SD|macsupport>
 
