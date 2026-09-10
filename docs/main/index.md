@@ -1,6 +1,6 @@
 ---
 title: Main Navigation
-parent: Navigation
+parent: Documentation
 nav_order: 1
 ---
 

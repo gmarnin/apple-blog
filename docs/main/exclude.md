@@ -1,6 +1,6 @@
 ---
 title: Excluding Pages
-parent: Main Navigation
+parent: Main Documentation
 nav_order: 2
 ---
 
