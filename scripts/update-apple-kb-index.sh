@@ -28,7 +28,7 @@ trap 'rm -f "$TMP_TSV" "$TMP_MD" "$TMP_INDEX"' EXIT
   echo "$START_MARK"
   echo "## Recent Apple Knowledge Base articles"
   echo ""
-  echo "_Last scan: $(TZ=America/New_York date '+%b %d %Y %H:%M %Z') — showing updates from the past $DAYS days._"
+  echo "_Last scan: $(TZ=America/New_York date '+%b %d %Y %-I:%M %p %Z') — showing updates from the past $DAYS days._"
   echo ""
 
   if [[ ! -s "$TMP_TSV" ]]; then
