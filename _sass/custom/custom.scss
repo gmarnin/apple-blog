@@ -1,10 +1,33 @@
 // custom SCSS (or CSS) goes here
 // Sidebar spacing for Resource Links is in _includes/head_custom.html
 
-// Slightly less left padding so title + nav text start further left
+// Two-line site title: allow header to grow and keep title readable
 @media (min-width: 50rem) {
+  .site-header {
+    height: auto;
+    max-height: none;
+    min-height: 3.75rem;
+    align-items: flex-start;
+  }
+
   .site-title {
+    display: block;
+    height: auto;
+    padding-top: 0.85rem;
+    padding-bottom: 0.85rem;
     padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    font-size: 0.95rem !important;
+    font-weight: 600;
+    line-height: 1.35;
+  }
+
+  .site-title-line2 {
+    display: block;
+    margin-top: 0.15rem;
+    font-size: 0.85em;
+    font-weight: 500;
+    color: #5c5962;
   }
 
   .nav-list .nav-list-item .nav-list-link {
