@@ -2,7 +2,6 @@
 title: Page Levels
 parent: Munki Documentation
 nav_order: 3
-nav_exclude: true
 ---
 
 # Page Levels
