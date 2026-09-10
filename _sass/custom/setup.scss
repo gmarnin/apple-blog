@@ -1,1 +1,4 @@
-// custom setup code goes here
+// Give long nav titles (e.g. "Workspace One Documentation") room on one line.
+// This widens the nav text column left into the empty sidebar gutter.
+$nav-width: 19.5rem;
+$nav-width-md: 19.5rem;

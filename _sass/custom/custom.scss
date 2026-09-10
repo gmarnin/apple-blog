@@ -1,2 +1,17 @@
 // custom SCSS (or CSS) goes here
 // Sidebar spacing for Resource Links is in _includes/head_custom.html
+
+// Slightly less left padding so title + nav text start further left
+@media (min-width: 50rem) {
+  .site-title {
+    padding-left: 1.25rem;
+  }
+
+  .nav-list .nav-list-item .nav-list-link {
+    padding-left: 1.25rem;
+  }
+
+  .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
+    padding-left: 1.75rem;
+  }
+}
