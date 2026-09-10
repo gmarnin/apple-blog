@@ -1,4 +1,3 @@
-// Give long nav titles (e.g. "Workspace One Documentation") room on one line.
-// This widens the nav text column left into the empty sidebar gutter.
-$nav-width: 19.5rem;
-$nav-width-md: 19.5rem;
+// Wider nav so long titles and the two-line site title fit
+$nav-width: 22.5rem;
+$nav-width-md: 22.5rem;

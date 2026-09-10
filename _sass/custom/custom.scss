@@ -15,11 +15,12 @@
     height: auto;
     padding-top: 0.85rem;
     padding-bottom: 0.85rem;
-    padding-left: 1.25rem;
-    padding-right: 1.25rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     font-size: 1.1rem !important;
     font-weight: 600;
     line-height: 1.35;
+    white-space: nowrap;
   }
 
   .site-title-line2 {
@@ -27,6 +28,7 @@
     margin-top: 0.15rem;
     font-weight: 600;
     color: inherit;
+    white-space: nowrap;
   }
 
   .nav-list .nav-list-item .nav-list-link {
