@@ -1,6 +1,6 @@
 ---
 title: WS1 Doc 1
-parent: workspace one documentation
+parent: Workspace One Documentation
 nav_order: 1
 ---
 
