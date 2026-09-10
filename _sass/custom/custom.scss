@@ -1,7 +1,7 @@
 // custom SCSS (or CSS) goes here
 // Sidebar spacing for Resource Links is in _includes/head_custom.html
 
-// Two-line site title: allow header to grow and keep title readable
+// Two-line site title: line1 + "Mac Blog" on line2
 @media (min-width: 50rem) {
   .site-header {
     height: auto;
@@ -15,11 +15,17 @@
     height: auto;
     padding-top: 0.85rem;
     padding-bottom: 0.85rem;
-    padding-left: 1.25rem;
-    padding-right: 1.25rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     font-size: 1.1rem !important;
     font-weight: 600;
     line-height: 1.35;
+  }
+
+  .site-title-line1,
+  .site-title-line2 {
+    display: inline-block;
+    white-space: nowrap;
   }
 
   .site-title-line2 {
