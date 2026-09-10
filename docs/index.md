@@ -4,4 +4,6 @@ nav_order: 2
 has_children: true
 ---
 
-# Docs
+# Documentation
+
+Guides and how-tos for managing Macs at Rutgers OIT EDM.
