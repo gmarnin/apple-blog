@@ -24,6 +24,11 @@ nav_external_links:
     hide_icon: false
     opens_in_new_tab: true
     
+  - title: AppleSeed for IT
+    url: https://beta.apple.com/for-it
+    hide_icon: false
+    opens_in_new_tab: true
+    
   - title: Munki Supported Apps
     url: https://docs.macupdates.rutgers.edu/apps/
     hide_icon: false
