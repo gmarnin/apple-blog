@@ -1,2 +1,16 @@
 // custom SCSS (or CSS) goes here
 // Sidebar spacing for Resource Links is in _includes/head_custom.html
+
+// Pin the sidebar to the left edge on large screens so content can use more width
+.side-bar {
+  @include mq(lg) {
+    width: $nav-width;
+    min-width: $nav-width;
+  }
+}
+
+.side-bar + .main {
+  @include mq(lg) {
+    margin-left: $nav-width;
+  }
+}

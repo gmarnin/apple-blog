@@ -1,6 +1,6 @@
 ---
 title: Creating Managed Apple Accounts Accounts
-parent: Documentation
+parent: General Documentation
 nav_order: 1
 ---
 
