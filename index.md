@@ -19,6 +19,6 @@ _Last scan: Sep 10 2026 17:35 UTC — showing updates from the past 7 days._
 
 | Updated | Article |
 | --- | --- |
-| Sep 04 2026 | [If you need to change or update your Apple Account payment method - Apple Support](https://support.apple.com/en-us/HT213276) |
+| Sep 04 2026 | <a href="https://support.apple.com/en-us/HT213276" target="_blank" rel="noopener noreferrer">If you need to change or update your Apple Account payment method - Apple Support</a> |
 
 <!-- apple-kb-scanner:end -->

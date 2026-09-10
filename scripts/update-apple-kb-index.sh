@@ -28,7 +28,7 @@ trap 'rm -f "$TMP_TSV" "$TMP_MD" "$TMP_INDEX"' EXIT
   echo "$START_MARK"
   echo "## Recent Apple Knowledge Base articles"
   echo ""
-  echo "_Last scan: $(date '+%b %d %Y %H:%M %Z') — showing updates from the past $DAYS days._"
+  echo "_Last scan: $(TZ=America/New_York date '+%b %d %Y %H:%M %Z') — showing updates from the past $DAYS days._"
   echo ""
 
   if [[ ! -s "$TMP_TSV" ]]; then
@@ -38,9 +38,13 @@ trap 'rm -f "$TMP_TSV" "$TMP_MD" "$TMP_INDEX"' EXIT
     echo "| --- | --- |"
     while IFS=$'\t' read -r url _label updated title; do
       [[ -z "${url:-}" ]] && continue
-      # Escape pipes in titles for markdown tables
-      safe_title="${title//|/\\|}"
-      echo "| $updated | [$safe_title]($url) |"
+      # Escape HTML entities in titles for safe links
+      safe_title="${title//&/&amp;}"
+      safe_title="${safe_title//</&lt;}"
+      safe_title="${safe_title//>/&gt;}"
+      safe_title="${safe_title//\"/&quot;}"
+      safe_title="${safe_title//|/\\|}"
+      echo "| $updated | <a href=\"$url\" target=\"_blank\" rel=\"noopener noreferrer\">$safe_title</a> |"
     done <"$TMP_TSV"
   fi
   echo ""
