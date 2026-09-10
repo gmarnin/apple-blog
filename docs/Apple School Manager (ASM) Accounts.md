@@ -1,5 +1,5 @@
 ---
-title: Creating Managed Apple Accounts Accounts
+title: Managed Apple Accounts Accounts
 parent: General Documentation
 nav_order: 1
 ---
