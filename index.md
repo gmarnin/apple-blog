@@ -15,6 +15,10 @@ Have an idea or this blog or something you would like to see? Please let us know
 <!-- apple-kb-scanner:start -->
 ## Recent Apple Knowledge Base articles
 
-_Waiting for the first daily scan. This section updates automatically each night._
+_Last scan: Sep 10 2026 17:35 UTC — showing updates from the past 7 days._
+
+| Updated | Article |
+| --- | --- |
+| Sep 04 2026 | [If you need to change or update your Apple Account payment method - Apple Support](https://support.apple.com/en-us/HT213276) |
 
 <!-- apple-kb-scanner:end -->
