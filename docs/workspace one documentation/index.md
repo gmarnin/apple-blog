@@ -1,6 +1,6 @@
 ---
 title: Workspace One Documentation
-nav_order: 4
+nav_order: 3
 has_children: true
 ---
 
