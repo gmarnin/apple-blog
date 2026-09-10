@@ -1,6 +1,6 @@
 ---
 title: Page Levels
-parent: Main Navigation
+parent: Main Documentation
 nav_order: 3
 ---
 
@@ -28,99 +28,5 @@ Sometimes you will want to create a page with many children. First, it is recomm
     └─ MIGRATION.md
 ├─ index.md (home page)
 ├─ (Jekyll files)
-└─ ...
-```
-
-## Example: page with no parents
-{: .text-delta }
-
-```yaml
----
-title: UI Components
-nav_order: 3
----
-```
-
-Here we're setting up the UI Components landing page that is available at URL `/docs/ui-components`, which is ordered second in the main navigation.
-
-The navigation links for all pages with children come with an expander. When you click the expander, the display of the children is toggled, so you can expand or collapse all the children displays, regardless of which page is currently active.
-
-## Child Pages
-
-On child pages, simply set the `parent` front matter to the parent page's `title`, and set a navigation order (relative to pages having the same parent).
-
-### Example: creating a child page
-{: .text-delta }
-
-```yaml
----
-title: Buttons
-parent: UI Components
-nav_order: 2
----
-```
-
-The Buttons page appears as a child of UI Components and appears second in the UI Components pages.
-
-{: .new-title }
-> New (v0.10.0)
->
-> The `has_children` field is now redundant (and ignored, except when significant for backwards compatibility).
-
-## Multi-level Child Pages
-
-Child pages can themselves have children, to any number of levels.
-
-### Example: pages with (recursive) children
-{: .text-delta }
-
-```yaml
----
-title: Main Navigation
-parent: Navigation
-nav_order: 1
----
-```
-
-```yaml
----
-title: Ancestry
-parent: Main Navigation
-nav_order: 4
----
-```
-
-```yaml
----
-title: X
-parent: Ancestry
----
-```
-
-```yaml
----
-title: Y
-parent: Ancestry
----
-```
-
-This creates the following navigation structure:
-
-{: .lh-0 }
-```
-┌─ ...
-├─ ...
-├─ Navigation
-    ├─ ...
-    ├─ Main Navigation
-        ├─ ...
-        ├─ Ancestry
-            ├─ X
-            └─ Y
-        ├─ ...
-        └─ ...
-    ├─ ...
-    └─ ...
-├─ ...
 └─ ...
 ```
