@@ -12,6 +12,9 @@ Here, you will find valuable resources to help you manage your Macs
 
 Have an idea for this blog or something you would like to see? Please let us know
 
+<br>
+<br>
+
 <!-- apple-kb-scanner:start -->
 ## Recent Apple Knowledge Base articles
 
