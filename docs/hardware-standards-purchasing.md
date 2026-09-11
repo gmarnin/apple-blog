@@ -9,10 +9,10 @@ nav_order: 7
 
 [Purchasing Apple devices](https://it.rutgers.edu/computer-standards/purchasing-apple-devices/)
 
-[Apple Account Executive](https://it.rutgers.edu/computer-standards/vendors/) (NetID login)
+[Apple vendor infomation](https://it.rutgers.edu/computer-standards/vendors/) (NetID login)
 
 <br>
 
-[Desktop Standard Configurations](https://it.rutgers.edu/computer-standards/desktops/)
+[Desktop standard configurations](https://it.rutgers.edu/computer-standards/desktops/)
 
-[Laptop Standard Configurations](https://it.rutgers.edu/computer-standards/notebooks/)
+[Laptop standard configurations](https://it.rutgers.edu/computer-standards/notebooks/)
