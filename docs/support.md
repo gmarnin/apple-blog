@@ -20,5 +20,6 @@ For Apple support including
 ServiceNow Assignment group:
 `ESD - Enterprise Apple Management`
 
-For community support:
-OIT Slack channel [#macsupport](https://yourworkspace.slack.com/archives/C06M4N8SD)
+For community discussion and support:
+Rutgers IT Community Slack channel [#macsupport](https://yourworkspace.slack.com/archives/C06M4N8SD)
+[Guidelines and joining Slack](https://it.rutgers.edu/it-community/guidelines-for-rutgers-it-slack/)
