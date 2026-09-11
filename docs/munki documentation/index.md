@@ -8,4 +8,4 @@ has_children: true
 
 Documentation for Munki (Managed Software Center) at Rutgers OIT EDM.
 
-![](../images/munki-icon.png) 
+![](../../images/munki-icon.png) 
