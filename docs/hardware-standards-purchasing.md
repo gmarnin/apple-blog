@@ -9,7 +9,7 @@ nav_order: 7
 
 [Purchasing Apple devices](https://it.rutgers.edu/computer-standards/purchasing-apple-devices/)
 
-[Apple vendor infomation](https://it.rutgers.edu/computer-standards/vendors/) (NetID login)
+[Apple vendor information](https://it.rutgers.edu/computer-standards/vendors/) (NetID login)
 
 <br>
 
