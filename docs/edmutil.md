@@ -1,15 +1,17 @@
 ---
-title: Edmutil App
+title: Edmutil Mac Application
 nav_order: 5
 ---
 
 
-# Edmutil App
+# Edmutil Mac Application
 
+edmutil is a command line utility designed to troubleshoot Rutgers Munki installations. It provides various commands to gather system information that can help diagnose Munki related issues.
+It is currently installed by default on all Macs that use EDM's Munki service. 
 
+`edmutil`:
 
-```
-edmutil       
+```      
 OVERVIEW: A command line utility to troubleshoot Rutgers Munki.
 
 Use subcommands like disk, system, or use --all to run them all.
@@ -40,9 +42,9 @@ SUBCOMMANDS:
 ```
 
 
-```
-edmutil --help
+`edmutil --help`:
 
+```
 DESCRIPTION:
     edmutil is a command line utility designed to troubleshoot Rutgers Munki installations. It provides
     various commands to gather system information that can help diagnose Munki related issues.
