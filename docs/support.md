@@ -7,8 +7,7 @@ nav_order: 4
 # EDM Apple Support
 
 
-
-For Apple support including onboardings, user accounts and all questions
+For Apple support including onboarding, user accounts and all questions
 
 * Apple School Manager (ASM)
 * WorkSpace One (WS1)
