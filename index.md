@@ -18,7 +18,7 @@ Have an idea for this blog or something you would like to see? Please let us kno
 <!-- apple-kb-scanner:start -->
 ## Recent Apple Knowledge Base articles
 
-_Last scan: Sep 12 2026 2:08 AM EDT — showing updates from the past 7 days._
+_Last scan: Sep 13 2026 2:10 AM EDT — showing updates from the past 7 days._
 
 _No Apple Support articles found in the last 7 days._
 
