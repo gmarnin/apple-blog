@@ -18,3 +18,6 @@ For Apple support including onboarding, user accounts and all questions
 
 [What's new for enterprise in iOS](https://support.apple.com/en-us/148828) 
 
+[What's new in the updates for macOS Tahoe 26](https://support.apple.com/en-us/122868)
+
+[What's new in the updates for macOS Golden Gate 27]()
