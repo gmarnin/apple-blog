@@ -6,3 +6,13 @@
     border-top: 1px solid #eeebee;
   }
 </style>
+
+<script>
+/* All links site-wide open in a new tab */
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".main-content a[href]").forEach(function (a) {
+      a.setAttribute("target", "_blank");
+      a.setAttribute("rel", "noopener noreferrer");
+    });
+  });
+</script>
