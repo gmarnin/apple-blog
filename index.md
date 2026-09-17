@@ -18,10 +18,11 @@ Have an idea for this blog or something you would like to see? Please let us kno
 <!-- apple-kb-scanner:start -->
 ## Recent Apple Knowledge Base articles
 
-_Last scan: Sep 16 2026 2:10 AM EDT — showing updates from the past 7 days._
+_Last scan: Sep 17 2026 2:10 AM EDT — showing updates from the past 7 days._
 
 | Updated | Article |
 | --- | --- |
+| Sep 16 2026 | <a href="https://support.apple.com/en-us/HT213276" target="_blank" rel="noopener noreferrer">If you need to change or update your Apple Account payment method - Apple Support</a> |
 | Sep 15 2026 | <a href="https://support.apple.com/en-us/HT213770" target="_blank" rel="noopener noreferrer">If you can't sign out due to restrictions, or your Apple Account is grayed out in Settings - Apple Support</a> |
 | Sep 15 2026 | <a href="https://support.apple.com/en-us/HT213952" target="_blank" rel="noopener noreferrer">Get your Apple Vision Pro ready for service - Apple Support</a> |
 | Sep 15 2026 | <a href="https://support.apple.com/en-us/HT213607" target="_blank" rel="noopener noreferrer">Use Maps on your iPhone to find your parked car's location - Apple Support</a> |
@@ -67,7 +68,6 @@ _Last scan: Sep 16 2026 2:10 AM EDT — showing updates from the past 7 days._
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213272" target="_blank" rel="noopener noreferrer">If photos or videos on your iPhone or iPad aren't available for import into Photos on your Mac - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213273" target="_blank" rel="noopener noreferrer">How to put your iPhone in diagnostics mode - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213275" target="_blank" rel="noopener noreferrer">Track your nightly wrist temperature changes with Apple Watch - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213276" target="_blank" rel="noopener noreferrer">If you need to change or update your Apple Account payment method - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213305" target="_blank" rel="noopener noreferrer">About the security of passkeys - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213307" target="_blank" rel="noopener noreferrer">Prepare your Beats product for Express Replacement Service - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213310" target="_blank" rel="noopener noreferrer">Use VoiceOver with a braille display on a Real-Time Text (RTT) phone call - Apple Support</a> |
@@ -184,7 +184,7 @@ _Last scan: Sep 16 2026 2:10 AM EDT — showing updates from the past 7 days._
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213514" target="_blank" rel="noopener noreferrer">About Apple Card payment assistance - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213515" target="_blank" rel="noopener noreferrer">If your iCloud photos and videos aren't displaying correctly on your PC - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213516" target="_blank" rel="noopener noreferrer">About the security content of iOS 16.1.2 - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213526" target="_blank" rel="noopener noreferrer">How Dark Sky users can use the Apple Weather app - Apple Support</a> |
+| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213526" target="_blank" rel="noopener noreferrer">Feature availability and data sources in the Weather app - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213528" target="_blank" rel="noopener noreferrer">Get a Depth and Water Seal Test for your Apple Watch Ultra - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213530" target="_blank" rel="noopener noreferrer">About the security content of iOS 16.2 and iPadOS 16.2 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213531" target="_blank" rel="noopener noreferrer">About the security content of iOS 15.7.2 and iPadOS 15.7.2 - Apple Support</a> |
