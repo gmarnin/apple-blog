@@ -19,6 +19,11 @@ nav_external_links:
     hide_icon: false
     opens_in_new_tab: true
     
+- title: Workspace One
+    url: https://rutgers.awmdm.com/
+    hide_icon: false
+    opens_in_new_tab: true
+    
   - title: Apple School Manager
     url: https://school.apple.com/
     hide_icon: false
