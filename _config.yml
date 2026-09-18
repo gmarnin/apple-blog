@@ -19,13 +19,13 @@ nav_external_links:
     hide_icon: false
     opens_in_new_tab: true
     
-- title: Workspace One
-    url: https://rutgers.awmdm.com/
+  - title: Workspace One
+    url: https://rutgers.awmdm.com
     hide_icon: false
     opens_in_new_tab: true
     
   - title: Apple School Manager
-    url: https://school.apple.com/
+    url: https://school.apple.com
     hide_icon: false
     opens_in_new_tab: true
     
@@ -35,7 +35,7 @@ nav_external_links:
     opens_in_new_tab: true
     
   - title: Munki Supported Apps
-    url: https://docs.macupdates.rutgers.edu/apps/
+    url: https://docs.macupdates.rutgers.edu/apps
     hide_icon: false
     opens_in_new_tab: true
     
