@@ -5,70 +5,9 @@
     padding-top: 1.5rem;
     border-top: 1px solid #d8d8d8;
   }
-
-  html[data-theme="rutgersdark"] #site-nav > .nav-list:nth-of-type(2) {
-    border-top-color: #666666;
-  }
-
-  /* Theme toggle — icon button */
-  .theme-toggle {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 2.25rem;
-    height: 2.25rem;
-    margin: 0.45rem 0.75rem 0.45rem 0;
-    padding: 0;
-    border-radius: 999px;
-    border: 1px solid #d8d8d8;
-    background: #ffffff;
-    color: #222222;
-    cursor: pointer;
-  }
-
-  .theme-toggle:hover {
-    border-color: #007fac;
-    color: #007fac;
-  }
-
-  .theme-toggle__icon {
-    display: block;
-    flex-shrink: 0;
-  }
-
-  html[data-theme="rutgersdark"] .theme-toggle {
-    border-color: #666666;
-    background: #000000;
-    color: #efefef;
-  }
-
-  html[data-theme="rutgersdark"] .theme-toggle:hover {
-    border-color: #7dbfd6;
-    color: #7dbfd6;
-  }
-
-  /* Scarlet title fails AA on black for small text; use white in dark mode */
-  html[data-theme="rutgersdark"] .site-title {
-    color: #ffffff;
-  }
 </style>
 
 <script>
-  /* Apply saved theme as early as possible to reduce flash */
-  (function () {
-    try {
-      var saved = window.localStorage.getItem("apple-blog-theme");
-      if (saved !== "rutgers" && saved !== "rutgersdark") {
-        saved = "rutgers";
-      }
-      document.documentElement.setAttribute("data-theme", saved);
-      var link = document.querySelector('link[rel="stylesheet"][href*="just-the-docs"]');
-      if (link && saved) {
-        link.href = link.href.replace(/just-the-docs-[^/"#?]+\.css/, "just-the-docs-" + saved + ".css");
-      }
-    } catch (e) {}
-  })();
-
   /* Content links open in a new tab */
   document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll(".main-content a[href]").forEach(function (a) {
