@@ -1,0 +1,20 @@
+// Rutgers dark palette (WCAG AA from Rutgers branding color tool)
+// Background Black/Dark Gray · text White · links Mid Blue #7DBFD6
+// Scarlet kept for buttons (white on scarlet passes)
+
+@import "./color_schemes/dark";
+
+$body-background-color: #222222;
+$body-heading-color: #ffffff;
+$body-text-color: #efefef;
+$link-color: #7dbfd6;
+$nav-child-link-color: #d8d8d8;
+$sidebar-color: #000000;
+$border-color: #666666;
+$base-button-color: #222222;
+$btn-primary-color: #cc0033;
+$code-background-color: #000000;
+$table-background-color: #000000;
+$search-background-color: #000000;
+$search-result-preview-color: #d8d8d8;
+$feedback-color: #111111;

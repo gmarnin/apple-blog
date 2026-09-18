@@ -1,0 +1,60 @@
+<button type="button" id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
+  <span class="theme-toggle__label">Dark</span>
+</button>
+
+<script>
+(function () {
+  var LIGHT = "rutgers";
+  var DARK = "rutgersdark";
+  var KEY = "apple-blog-theme";
+
+  function normalize(theme) {
+    if (theme === DARK || theme === "dark") return DARK;
+    return LIGHT;
+  }
+
+  function currentTheme() {
+    try {
+      var saved = window.localStorage.getItem(KEY);
+      if (saved === LIGHT || saved === DARK) return saved;
+    } catch (e) {}
+    if (window.jtd && typeof window.jtd.getTheme === "function") {
+      return normalize(window.jtd.getTheme());
+    }
+    return LIGHT;
+  }
+
+  function paintButton(theme) {
+    var btn = document.getElementById("theme-toggle");
+    if (!btn) return;
+    var label = btn.querySelector(".theme-toggle__label");
+    var isDark = theme === DARK;
+    if (label) label.textContent = isDark ? "Light" : "Dark";
+    btn.setAttribute("aria-label", isDark ? "Switch to light mode" : "Switch to dark mode");
+  }
+
+  function applyTheme(theme) {
+    theme = normalize(theme);
+    if (window.jtd && typeof window.jtd.setTheme === "function") {
+      window.jtd.setTheme(theme);
+    }
+    document.documentElement.setAttribute("data-theme", theme);
+    try {
+      window.localStorage.setItem(KEY, theme);
+    } catch (e) {}
+    paintButton(theme);
+  }
+
+  window.appleBlogToggleTheme = function () {
+    applyTheme(currentTheme() === DARK ? LIGHT : DARK);
+  };
+
+  document.addEventListener("DOMContentLoaded", function () {
+    var btn = document.getElementById("theme-toggle");
+    if (btn) {
+      btn.addEventListener("click", window.appleBlogToggleTheme);
+    }
+    paintButton(currentTheme());
+  });
+})();
+</script>
