@@ -17,3 +17,4 @@ vendor/
 .DS_Store
 .textClipping
 notes.md
+.venv-img/
