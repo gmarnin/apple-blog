@@ -10,27 +10,30 @@
     border-top-color: #666666;
   }
 
-  /* Theme toggle */
+  /* Theme toggle — icon button */
   .theme-toggle {
     display: inline-flex;
     align-items: center;
-    gap: 0.35rem;
-    margin: 0.5rem 0.75rem 0.5rem 0;
-    padding: 0.3rem 0.7rem;
-    border-radius: 0.4rem;
+    justify-content: center;
+    width: 2.25rem;
+    height: 2.25rem;
+    margin: 0.45rem 0.75rem 0.45rem 0;
+    padding: 0;
+    border-radius: 999px;
     border: 1px solid #d8d8d8;
     background: #ffffff;
     color: #222222;
-    font: inherit;
-    font-size: 0.8rem;
-    font-weight: 600;
-    line-height: 1.2;
     cursor: pointer;
   }
 
   .theme-toggle:hover {
     border-color: #007fac;
     color: #007fac;
+  }
+
+  .theme-toggle__icon {
+    display: block;
+    flex-shrink: 0;
   }
 
   html[data-theme="rutgersdark"] .theme-toggle {
