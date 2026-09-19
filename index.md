@@ -18,15 +18,35 @@ Have an idea for this blog or something you would like to see? Please let us kno
 <!-- apple-kb-scanner:start -->
 ## Recent Apple Knowledge Base articles
 
-_Last scan: Sep 17 2026 2:10 AM EDT — showing updates from the past 7 days._
+_Last scan: Sep 19 2026 2:10 AM EDT — showing updates from the past 7 days._
 
 | Updated | Article |
 | --- | --- |
+| Sep 18 2026 | <a href="https://support.apple.com/en-us/HT213334" target="_blank" rel="noopener noreferrer">Measure underwater temperature, duration, and depth on Apple Watch - Apple Support</a> |
+| Sep 18 2026 | <a href="https://support.apple.com/en-us/HT213335" target="_blank" rel="noopener noreferrer">Use the Action button on Apple Watch Ultra models - Apple Support</a> |
+| Sep 18 2026 | <a href="https://support.apple.com/en-us/HT213416" target="_blank" rel="noopener noreferrer">Control Apple Watch with your iPhone - Apple Support</a> |
+| Sep 18 2026 | <a href="https://support.apple.com/en-us/HT213438" target="_blank" rel="noopener noreferrer">Activate the siren on Apple Watch Ultra - Apple Support</a> |
+| Sep 18 2026 | <a href="https://support.apple.com/en-us/HT213273" target="_blank" rel="noopener noreferrer">When and how to use diagnostics mode with iPhone and iPad - Apple Support</a> |
+| Sep 18 2026 | <a href="https://support.apple.com/en-us/HT214069" target="_blank" rel="noopener noreferrer">Mirror your Apple Vision Pro to another device - Apple Support</a> |
+| Sep 17 2026 | <a href="https://support.apple.com/en-us/HT213248" target="_blank" rel="noopener noreferrer">How to use iCloud Shared Photo Library on iPhone or iPad - Apple Support</a> |
+| Sep 17 2026 | <a href="https://support.apple.com/en-us/HT213448" target="_blank" rel="noopener noreferrer">Use eSIM while traveling internationally with your iPhone - Apple Support</a> |
+| Sep 17 2026 | <a href="https://support.apple.com/en-us/HT213839" target="_blank" rel="noopener noreferrer">Charge and connect with the USB-C connector on your iPhone - Apple Support</a> |
+| Sep 17 2026 | <a href="https://support.apple.com/en-us/HT213653" target="_blank" rel="noopener noreferrer">Apple Watch and iPhone compatibility - Apple Support</a> |
+| Sep 17 2026 | <a href="https://support.apple.com/en-us/HT213854" target="_blank" rel="noopener noreferrer">Identify authentic and certified Apple Watch chargers - Apple Support</a> |
+| Sep 17 2026 | <a href="https://support.apple.com/en-us/HT213415" target="_blank" rel="noopener noreferrer">Apple Music Classical User Guide - Apple Support</a> |
+| Sep 17 2026 | <a href="https://support.apple.com/en-us/HT213347" target="_blank" rel="noopener noreferrer">View and manage your game library in the Apple Games app on iPhone - Apple Support</a> |
+| Sep 17 2026 | <a href="https://support.apple.com/en-us/HT213359" target="_blank" rel="noopener noreferrer">Share your data in Health on iPhone - Apple Support</a> |
+| Sep 17 2026 | <a href="https://support.apple.com/en-us/HT213435" target="_blank" rel="noopener noreferrer">Keep the iPhone display on longer - Apple Support</a> |
+| Sep 17 2026 | <a href="https://support.apple.com/en-us/HT213838" target="_blank" rel="noopener noreferrer">Log your state of mind in Health on iPhone - Apple Support</a> |
+| Sep 17 2026 | <a href="https://support.apple.com/en-us/HT213877" target="_blank" rel="noopener noreferrer">Set up Voicemail on iPhone - Apple Support</a> |
+| Sep 17 2026 | <a href="https://support.apple.com/en-us/HT213315" target="_blank" rel="noopener noreferrer">Organize your Mac desktop with Stage Manager - Apple Support</a> |
+| Sep 17 2026 | <a href="https://support.apple.com/en-us/HT213659" target="_blank" rel="noopener noreferrer">Add and customize widgets on Mac - Apple Support</a> |
+| Sep 16 2026 | <a href="https://support.apple.com/en-us/HT213317" target="_blank" rel="noopener noreferrer">About firmware updates for AirPods - Apple Support</a> |
 | Sep 16 2026 | <a href="https://support.apple.com/en-us/HT213276" target="_blank" rel="noopener noreferrer">If you need to change or update your Apple Account payment method - Apple Support</a> |
+| Sep 16 2026 | <a href="https://support.apple.com/en-us/HT213362" target="_blank" rel="noopener noreferrer">How to erase an eSIM on your iPhone or iPad - Apple Support</a> |
 | Sep 15 2026 | <a href="https://support.apple.com/en-us/HT213770" target="_blank" rel="noopener noreferrer">If you can't sign out due to restrictions, or your Apple Account is grayed out in Settings - Apple Support</a> |
 | Sep 15 2026 | <a href="https://support.apple.com/en-us/HT213952" target="_blank" rel="noopener noreferrer">Get your Apple Vision Pro ready for service - Apple Support</a> |
 | Sep 15 2026 | <a href="https://support.apple.com/en-us/HT213607" target="_blank" rel="noopener noreferrer">Use Maps on your iPhone to find your parked car's location - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213317" target="_blank" rel="noopener noreferrer">About firmware updates for AirPods - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213223" target="_blank" rel="noopener noreferrer">How to download the Beats app when you can’t use Google Play - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213225" target="_blank" rel="noopener noreferrer">Use Crash Detection on iPhone or Apple Watch to call for help in an accident - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213226" target="_blank" rel="noopener noreferrer">Add your vision prescription in the Health app - Apple Support</a> |
@@ -43,7 +63,6 @@ _Last scan: Sep 17 2026 2:10 AM EDT — showing updates from the past 7 days._
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213245" target="_blank" rel="noopener noreferrer">What’s new in firmware updates for AirTag - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213246" target="_blank" rel="noopener noreferrer">Prepare your Apple TV for Express Replacement Service - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213247" target="_blank" rel="noopener noreferrer">If you are missing photos after joining an iCloud Shared Photo Library - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213248" target="_blank" rel="noopener noreferrer">How to use iCloud Shared Photo Library on iPhone or iPad - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213250" target="_blank" rel="noopener noreferrer">View .ps and .eps files on Mac - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213252" target="_blank" rel="noopener noreferrer">About subscription price changes - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213253" target="_blank" rel="noopener noreferrer">About the security content of watchOS 8.6 - Apple Support</a> |
@@ -66,12 +85,10 @@ _Last scan: Sep 17 2026 2:10 AM EDT — showing updates from the past 7 days._
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213270" target="_blank" rel="noopener noreferrer">Prepare your AirPods, AirPods Pro, or AirPods Max for Express Replacement Service. - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213271" target="_blank" rel="noopener noreferrer">About search results in Apple Books - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213272" target="_blank" rel="noopener noreferrer">If photos or videos on your iPhone or iPad aren't available for import into Photos on your Mac - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213273" target="_blank" rel="noopener noreferrer">How to put your iPhone in diagnostics mode - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213275" target="_blank" rel="noopener noreferrer">Track your nightly wrist temperature changes with Apple Watch - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213305" target="_blank" rel="noopener noreferrer">About the security of passkeys - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213307" target="_blank" rel="noopener noreferrer">Prepare your Beats product for Express Replacement Service - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213310" target="_blank" rel="noopener noreferrer">Use VoiceOver with a braille display on a Real-Time Text (RTT) phone call - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213315" target="_blank" rel="noopener noreferrer">Organize your Mac desktop with Stage Manager - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213316" target="_blank" rel="noopener noreferrer">Prepare your Beats product for Express Replacement Service - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213318" target="_blank" rel="noopener noreferrer">Listen with Personalized Spatial Audio for AirPods and Beats - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213320" target="_blank" rel="noopener noreferrer">Preferred Device Enrollment Resellers for Canada, Latin America, and the United States - Apple Support</a> |
@@ -84,8 +101,6 @@ _Last scan: Sep 17 2026 2:10 AM EDT — showing updates from the past 7 days._
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213329" target="_blank" rel="noopener noreferrer">Present your driver's license from Apple Wallet - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213330" target="_blank" rel="noopener noreferrer">If you get an alert in the Find My app that your AirPods setup is incomplete - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213331" target="_blank" rel="noopener noreferrer">Government, Emergency, and Enhanced Safety Alerts on Apple Watch - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213334" target="_blank" rel="noopener noreferrer">Measure underwater temperature, duration, and depth on Apple Watch - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213335" target="_blank" rel="noopener noreferrer">Use the Action button on Apple Watch Ultra models - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213336" target="_blank" rel="noopener noreferrer">Use Low Power Mode on your Apple Watch - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213338" target="_blank" rel="noopener noreferrer">About Optimized Battery Charging on Apple Watch - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213340" target="_blank" rel="noopener noreferrer">About the security content of watchOS 8.7 - Apple Support</a> |
@@ -95,15 +110,12 @@ _Last scan: Sep 17 2026 2:10 AM EDT — showing updates from the past 7 days._
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213344" target="_blank" rel="noopener noreferrer">About the security content of macOS Big Sur 11.6.8 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213345" target="_blank" rel="noopener noreferrer">About the security content of macOS Monterey 12.5 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213346" target="_blank" rel="noopener noreferrer">About the security content of iOS 15.6 and iPadOS 15.6 - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213347" target="_blank" rel="noopener noreferrer">View and manage your game library in the Apple Games app on iPhone - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213348" target="_blank" rel="noopener noreferrer">If a message says 'billing problem with previous purchase' or 'verification required' - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213349" target="_blank" rel="noopener noreferrer">Use Reference Mode on your iPad Pro - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213350" target="_blank" rel="noopener noreferrer">How to add and find favorites in Apple Music on your iPhone, iPad, or Android - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213351" target="_blank" rel="noopener noreferrer">Add and log medications with iPhone, iPad, and Apple Watch - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213356" target="_blank" rel="noopener noreferrer">If you see a message that macOS Server is not supported when upgrading to macOS Ventura - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213359" target="_blank" rel="noopener noreferrer">Share your data in Health on iPhone - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213361" target="_blank" rel="noopener noreferrer">If you can't set up an eSIM on your iPhone - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213362" target="_blank" rel="noopener noreferrer">How to erase an eSIM on your iPhone or iPad - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213363" target="_blank" rel="noopener noreferrer">If video frames in your Final Cut Pro project are in the wrong order - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213404" target="_blank" rel="noopener noreferrer">Change iPhone keyboard sounds or haptics - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213405" target="_blank" rel="noopener noreferrer">Turn Stage Manager on or off on your iPad - Apple Support</a> |
@@ -115,8 +127,6 @@ _Last scan: Sep 17 2026 2:10 AM EDT — showing updates from the past 7 days._
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213412" target="_blank" rel="noopener noreferrer">About the security content of iOS 15.6.1 and iPadOS 15.6.1 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213413" target="_blank" rel="noopener noreferrer">About the security content of macOS Monterey 12.5.1 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213414" target="_blank" rel="noopener noreferrer">About the security content of Safari 15.6.1 - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213415" target="_blank" rel="noopener noreferrer">Apple Music Classical User Guide - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213416" target="_blank" rel="noopener noreferrer">Control Apple Watch with your iPhone - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213417" target="_blank" rel="noopener noreferrer">What’s new for enterprise in iOS 16 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213426" target="_blank" rel="noopener noreferrer">Use Emergency SOS via satellite on your iPhone - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213428" target="_blank" rel="noopener noreferrer">About the security content of iOS 12.5.6 - Apple Support</a> |
@@ -124,17 +134,14 @@ _Last scan: Sep 17 2026 2:10 AM EDT — showing updates from the past 7 days._
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213430" target="_blank" rel="noopener noreferrer">Allow USB and other accessories to connect to your Mac - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213433" target="_blank" rel="noopener noreferrer">Use Wi-Fi 6E or Wi-Fi 7 networks with Apple devices - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213434" target="_blank" rel="noopener noreferrer">Block and unblock channels and topics in Apple News - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213435" target="_blank" rel="noopener noreferrer">Keep the iPhone display on longer - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213436" target="_blank" rel="noopener noreferrer">About watchOS 9 Updates - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213437" target="_blank" rel="noopener noreferrer">If the volume buttons on your Apple TV remote aren't working - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213438" target="_blank" rel="noopener noreferrer">Use Siren on Apple Watch Ultra to signal for help - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213441" target="_blank" rel="noopener noreferrer">Pair and manage your Matter accessories - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213442" target="_blank" rel="noopener noreferrer">About the security content of Safari 16 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213443" target="_blank" rel="noopener noreferrer">About the security content of macOS Big Sur 11.7 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213444" target="_blank" rel="noopener noreferrer">About the security content of macOS Monterey 12.6 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213445" target="_blank" rel="noopener noreferrer">About the security content of iOS 15.7 and iPadOS 15.7 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213446" target="_blank" rel="noopener noreferrer">About the security content of iOS 16 - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213448" target="_blank" rel="noopener noreferrer">Use eSIM while traveling internationally with your iPhone - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213449" target="_blank" rel="noopener noreferrer">About Automatic Verification - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213450" target="_blank" rel="noopener noreferrer">If you can’t find the Duplicates album for duplicate photos and videos on iPhone - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213451" target="_blank" rel="noopener noreferrer">How to apply for an Apple Card Savings account [Set up and use Savings in Apple Wallet] - Apple Support</a> |
@@ -236,10 +243,8 @@ _Last scan: Sep 17 2026 2:10 AM EDT — showing updates from the past 7 days._
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213649" target="_blank" rel="noopener noreferrer">Where to find downloads on your iPhone or iPad - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213650" target="_blank" rel="noopener noreferrer">About the security content of GarageBand for macOS 10.4.8 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213652" target="_blank" rel="noopener noreferrer">About Blood Oxygen availability - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213653" target="_blank" rel="noopener noreferrer">Apple Watch and iPhone compatibility - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213656" target="_blank" rel="noopener noreferrer">If your Mac can't save files to an external drive - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213658" target="_blank" rel="noopener noreferrer">Use Game Mode - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213659" target="_blank" rel="noopener noreferrer">Add and customize widgets on Mac - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213660" target="_blank" rel="noopener noreferrer">Install and replace parts in your Mac Pro (2023) - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213661" target="_blank" rel="noopener noreferrer">PCIe cards you can install in your Mac Pro (2023) - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213662" target="_blank" rel="noopener noreferrer">How to revive or restore Mac firmware - Apple Support</a> |
@@ -334,8 +339,6 @@ _Last scan: Sep 17 2026 2:10 AM EDT — showing updates from the past 7 days._
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213833" target="_blank" rel="noopener noreferrer">About the security content of Apple Music 4.2.0 for Android - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213834" target="_blank" rel="noopener noreferrer">About Sensitive Content Warning on Apple devices - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213837" target="_blank" rel="noopener noreferrer">If you can’t find pets in the People &amp; Pets album in Photos - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213838" target="_blank" rel="noopener noreferrer">Log your state of mind in Health on iPhone - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213839" target="_blank" rel="noopener noreferrer">Charge and connect with the USB-C connector on your iPhone - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213841" target="_blank" rel="noopener noreferrer">About the security content of iOS 16.6 and iPadOS 16.6 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213842" target="_blank" rel="noopener noreferrer">About the security content of iOS 15.7.8 and iPadOS 15.7.8 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213843" target="_blank" rel="noopener noreferrer">About the security content of macOS Ventura 13.5 - Apple Support</a> |
@@ -346,7 +349,6 @@ _Last scan: Sep 17 2026 2:10 AM EDT — showing updates from the past 7 days._
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213848" target="_blank" rel="noopener noreferrer">About the security content of watchOS 9.6 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213849" target="_blank" rel="noopener noreferrer">If you forget your new passcode, use your old passcode to unlock your iPhone or iPad within 72 hours - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213850" target="_blank" rel="noopener noreferrer">How to turn AutoMix or Crossfade on or off in the Apple Music app - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213854" target="_blank" rel="noopener noreferrer">Identify authentic and certified Apple Watch chargers - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213860" target="_blank" rel="noopener noreferrer">How to download iOS 18 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213861" target="_blank" rel="noopener noreferrer">How to download iPadOS 18 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213862" target="_blank" rel="noopener noreferrer">What is Screen Distance? - Apple Support</a> |
@@ -354,7 +356,6 @@ _Last scan: Sep 17 2026 2:10 AM EDT — showing updates from the past 7 days._
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213866" target="_blank" rel="noopener noreferrer">How to unsend messages on your iPhone - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213867" target="_blank" rel="noopener noreferrer">How to edit messages on your iPhone - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213868" target="_blank" rel="noopener noreferrer">Charge and maintain your iPhone battery - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213877" target="_blank" rel="noopener noreferrer">Set up Voicemail on iPhone - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213878" target="_blank" rel="noopener noreferrer">Create a Personal Voice on iPhone, iPad, or Mac - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213879" target="_blank" rel="noopener noreferrer">Use Live Speech on your iPhone, iPad, Mac, or Apple Watch - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT213880" target="_blank" rel="noopener noreferrer">Receive notifications for iCloud apps on your PC - Apple Support</a> |
@@ -494,7 +495,6 @@ _Last scan: Sep 17 2026 2:10 AM EDT — showing updates from the past 7 days._
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT214061" target="_blank" rel="noopener noreferrer">About the security content of macOS Sonoma 14.3 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT214062" target="_blank" rel="noopener noreferrer">About the security content of iOS 15.8.1 and iPadOS 15.8.1 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT214063" target="_blank" rel="noopener noreferrer">About the security content of iOS 16.7.5 and iPadOS 16.7.5 - Apple Support</a> |
-| Sep 14 2026 | <a href="https://support.apple.com/en-us/HT214069" target="_blank" rel="noopener noreferrer">Mirror your Apple Vision Pro to another device - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT214070" target="_blank" rel="noopener noreferrer">About the security content of visionOS 1.0.2 - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT214071" target="_blank" rel="noopener noreferrer">About visionOS 1 Updates - Apple Support</a> |
 | Sep 14 2026 | <a href="https://support.apple.com/en-us/HT214072" target="_blank" rel="noopener noreferrer">Use Apple Devices to share files between your Windows computer and your iPhone or iPad - Apple Support</a> |
