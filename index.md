@@ -27,6 +27,8 @@ nav_order: 1
   >
 </div>
 
+<br>
+
 Welcome to the Rutgers OIT Enterprise Device Management Apple Blog
 
 Here, you will find valuable resources to help you manage your Apple devices
