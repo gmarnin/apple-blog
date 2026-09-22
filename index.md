@@ -4,10 +4,28 @@ layout: home
 nav_order: 1
 ---
 
-<div class="nf">
-  <div class="nf__ball" aria-hidden="true">
-    <img src="{{ '/assets/images/apple_hello_.png' | relative_url }}" alt="" width="112" height="112">
-  </div>
+<style>
+  .welcome-hero {
+    text-align: center;
+    margin: 0.5rem 0 1.75rem;
+  }
+
+  .welcome-hero img {
+    display: block;
+    margin: 0 auto;
+    width: min(100%, 28rem);
+    height: auto;
+  }
+</style>
+
+<div class="welcome-hero">
+  <img
+    src="{{ '/assets/images/apple_hello.jpg' | relative_url }}"
+    alt="Apple hello"
+    width="1600"
+    height="900"
+  >
+</div>
 
 Welcome to the Rutgers OIT Enterprise Device Management Apple Blog
 
