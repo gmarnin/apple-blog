@@ -6,7 +6,7 @@ nav_order: 8
 
 ## OS enterprise and public release notes:
 
-
+<br>
 
 All [Apple security](https://support.apple.com/en-us/100100) release notes
 

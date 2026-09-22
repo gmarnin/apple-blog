@@ -4,7 +4,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Munki Documentation
+## Munki Documentation
 
 Documentation for Munki (Managed Software Center) at Rutgers OIT EDM.
 

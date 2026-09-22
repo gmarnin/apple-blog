@@ -4,7 +4,7 @@ nav_order: 6
 ---
 
 
-# Apple Admin Meetings
+## Apple Admin Meetings
 
 Info about the Apple Admin Meetings
 

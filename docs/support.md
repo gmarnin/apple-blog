@@ -4,7 +4,7 @@ nav_order: 4
 ---
 
 
-# EDM Apple Support
+## EDM Apple Support
 
 
 For Apple support including onboarding, user accounts and all questions
