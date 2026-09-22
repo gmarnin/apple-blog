@@ -1,10 +1,10 @@
 ---
-title: Relevant and New Apple KBs
+title: Relevant Apple KBs
 nav_order: 8
 ---
 
 
-# macOS, iOS and iPadOS enterprise and public release notes:
+# OS enterprise and public release notes:
 
 
 
