@@ -21,11 +21,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
+<<<<<<< HEAD
       - name: Run scanner and update recent Apple KBs page
+=======
+      - name: Run scanner and update docs/recent_apple_kbs.md
+>>>>>>> 27b3a004dbe765359be862385c7e3cf245516562
         run: |
           chmod +x scripts/Apple-KB-Scanner.sh scripts/update-apple-kb-index.sh
           scripts/update-apple-kb-index.sh 7
 
+<<<<<<< HEAD
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
@@ -37,3 +42,16 @@ jobs:
             git commit -m "Update Apple KB articles (last 7 days)"
             git push
           fi
+=======
+     # - name: Commit and push changes
+     #   run: |
+     #     git config user.name "github-actions[bot]"
+     #     git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+     #     git add docs/recent_apple_kbs.md
+     #     if git diff --staged --quiet; then
+     #       echo "No changes to commit"
+     #     else
+     #       git commit -m "Update Apple KB articles (last 7 days)"
+     #       git push
+     #     fi
+>>>>>>> 27b3a004dbe765359be862385c7e3cf245516562
