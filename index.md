@@ -4,7 +4,10 @@ layout: home
 nav_order: 1
 ---
 
-
+<div class="nf">
+  <div class="nf__ball" aria-hidden="true">
+    <img src="{{ '/assets/images/apple_hello_.png' | relative_url }}" alt="" width="112" height="112">
+  </div>
 
 Welcome to the Rutgers OIT Enterprise Device Management Apple Blog
 
