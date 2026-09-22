@@ -1,16 +1,16 @@
 #!/usr/bin/env bash
-# Run the Apple KB scanner and refresh the generated section in index.md
+# Run the Apple KB scanner and refresh the generated section in docs/recent_apple_kbs.md
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-INDEX="$ROOT/index.md"
+PAGE="$ROOT/docs/recent_apple_kbs.md"
 SCANNER="$ROOT/scripts/Apple-KB-Scanner.sh"
 DAYS="${1:-7}"
 START_MARK="<!-- apple-kb-scanner:start -->"
 END_MARK="<!-- apple-kb-scanner:end -->"
 
-if [[ ! -f "$INDEX" ]]; then
-  echo "Missing $INDEX" >&2
+if [[ ! -f "$PAGE" ]]; then
+  echo "Missing $PAGE" >&2
   exit 1
 fi
 
@@ -19,8 +19,8 @@ chmod +x "$SCANNER"
 echo "Scanning Apple KB for articles from the last $DAYS days..." >&2
 TMP_TSV="$(mktemp)"
 TMP_MD="$(mktemp)"
-TMP_INDEX="$(mktemp)"
-trap 'rm -f "$TMP_TSV" "$TMP_MD" "$TMP_INDEX"' EXIT
+TMP_PAGE="$(mktemp)"
+trap 'rm -f "$TMP_TSV" "$TMP_MD" "$TMP_PAGE"' EXIT
 
 "$SCANNER" --days "$DAYS" >"$TMP_TSV"
 
@@ -51,7 +51,7 @@ trap 'rm -f "$TMP_TSV" "$TMP_MD" "$TMP_INDEX"' EXIT
   echo "$END_MARK"
 } >"$TMP_MD"
 
-if grep -qF "$START_MARK" "$INDEX" && grep -qF "$END_MARK" "$INDEX"; then
+if grep -qF "$START_MARK" "$PAGE" && grep -qF "$END_MARK" "$PAGE"; then
   # Replace existing generated block
   awk -v start="$START_MARK" -v end="$END_MARK" -v blockfile="$TMP_MD" '
     BEGIN {
@@ -63,16 +63,16 @@ if grep -qF "$START_MARK" "$INDEX" && grep -qF "$END_MARK" "$INDEX"; then
     $0 == start { printf "%s", block; skip=1; next }
     $0 == end { skip=0; next }
     !skip { print }
-  ' "$INDEX" >"$TMP_INDEX"
-  mv "$TMP_INDEX" "$INDEX"
+  ' "$PAGE" >"$TMP_PAGE"
+  mv "$TMP_PAGE" "$PAGE"
 else
   # Append generated block under current page text
   {
-    cat "$INDEX"
+    cat "$PAGE"
     echo ""
     cat "$TMP_MD"
-  } >"$TMP_INDEX"
-  mv "$TMP_INDEX" "$INDEX"
+  } >"$TMP_PAGE"
+  mv "$TMP_PAGE" "$PAGE"
 fi
 
-echo "Updated $INDEX" >&2
+echo "Updated $PAGE" >&2
