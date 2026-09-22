@@ -1,6 +1,19 @@
 // custom SCSS (or CSS) goes here
 // Sidebar spacing for Resource Links is in _includes/head_custom.html
 
+// Remove underlines from links
+a,
+a:hover,
+a:focus,
+a:active,
+.main-content a,
+.main-content a:hover,
+.main-content a:focus,
+.nav-list-link,
+.aux-nav a {
+  text-decoration: none !important;
+}
+
 // Two-line site title + Rutgers OIT logo underneath
 .site-title {
   display: flex;
