@@ -4,7 +4,7 @@ nav_order: 8
 ---
 
 
-# OS enterprise and public release notes:
+## OS enterprise and public release notes:
 
 
 
@@ -22,5 +22,3 @@ All [Apple security](https://support.apple.com/en-us/100100) release notes
 
 [What's new in the updates for macOS Golden Gate 27](https://support.apple.com/en-us/127257)
 
-
-# Relevant Apple Knowledge base Articles 
