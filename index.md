@@ -20,7 +20,7 @@ nav_order: 1
 
 <div class="welcome-hero">
   <img
-    src="{{ '/assets/images/apple_hello.jpeg' | relative_url }}"
+    src="{{ '/assets/images/apple_hello.png' | relative_url }}"
     alt="Apple hello"
     width="1600"
     height="900"
