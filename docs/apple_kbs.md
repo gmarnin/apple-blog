@@ -1,14 +1,14 @@
 ---
-title: Relevant Apple KBs
+title: Relevant and New Apple KBs
 nav_order: 8
 ---
 
 
-# Relevant Apple Knowledge base Articles 
+# macOS, iOS and iPadOS enterprise and public release notes:
 
 
-For Apple support including onboarding, user accounts and all questions
 
+All [Apple security](https://support.apple.com/en-us/100100) release notes
 
 [What's new for enterprise in macOS Tahoe 26](https://support.apple.com/en-us/124963)
 
@@ -20,4 +20,7 @@ For Apple support including onboarding, user accounts and all questions
 
 [What's new in the updates for macOS Tahoe 26](https://support.apple.com/en-us/122868)
 
-[What's new in the updates for macOS Golden Gate 27]()
+[What's new in the updates for macOS Golden Gate 27](https://support.apple.com/en-us/127257)
+
+
+# Relevant Apple Knowledge base Articles 
