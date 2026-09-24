@@ -12,28 +12,29 @@ aux_links_new_tab: true
 
 collections:
 nav_external_links:
-  - title: Internal Resource Links
+  - title: Internal Resource Links:
     hide_icon: true
     
   - title: Workspace One
     url: https://rutgers.awmdm.com
     hide_icon: false
     opens_in_new_tab: true
-    
+
+  - title: MunkiReport
+    url: https://macupdates.its.rutgers.edu/munkireport
+    hide_icon: false
+    opens_in_new_tab: true    
+
   - title: Munki Supported Apps
     url: https://docs.macupdates.rutgers.edu/apps
     hide_icon: false
     opens_in_new_tab: true
     
-  - title: MunkiReport
-    url: https://macupdates.its.rutgers.edu/munkireport
-    hide_icon: false
-    opens_in_new_tab: true
 
   - title: 
     hide_icon: true
     
-  - title: External Resource Links
+  - title: External Resource Links:
     hide_icon: true
 
   - title: Apple School Manager
