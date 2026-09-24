@@ -7,12 +7,14 @@ nav_order: 1
 <style>
   .welcome-hero {
     text-align: center;
-    margin: 0.5rem 0 1.75rem;
+    margin: 4rem auto 2.5rem;
+    max-width: 36rem;
   }
 
   .welcome-hero img {
     display: block;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
     width: min(100%, 28rem);
     height: auto;
   }
