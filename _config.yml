@@ -29,6 +29,9 @@ nav_external_links:
     url: https://macupdates.its.rutgers.edu/munkireport
     hide_icon: false
     opens_in_new_tab: true
+
+  - title: 
+    hide_icon: true
     
   - title: External Resource Links
     hide_icon: true
