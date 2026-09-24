@@ -12,26 +12,11 @@ aux_links_new_tab: true
 
 collections:
 nav_external_links:
-  - title: Resource Links
+  - title: Internal Resource Links
     hide_icon: true
-    
-  - title: Sofa Feed (Apple Software Updates)
-    url: https://sofa.macadmins.io
-    hide_icon: false
-    opens_in_new_tab: true
     
   - title: Workspace One
     url: https://rutgers.awmdm.com
-    hide_icon: false
-    opens_in_new_tab: true
-    
-  - title: Apple School Manager
-    url: https://school.apple.com
-    hide_icon: false
-    opens_in_new_tab: true
-    
-  - title: AppleSeed for IT
-    url: https://beta.apple.com/for-it
     hide_icon: false
     opens_in_new_tab: true
     
@@ -42,6 +27,24 @@ nav_external_links:
     
   - title: MunkiReport
     url: https://macupdates.its.rutgers.edu/munkireport
+    hide_icon: false
+    opens_in_new_tab: true
+    
+  - title: External Resource Links
+    hide_icon: true
+
+  - title: Apple School Manager
+    url: https://school.apple.com
+    hide_icon: false
+    opens_in_new_tab: true
+    
+  - title: AppleSeed for IT
+    url: https://beta.apple.com/for-it
+    hide_icon: false
+    opens_in_new_tab: true
+    
+  - title: Sofa Feed (Apple Software Updates)
+    url: https://sofa.macadmins.io
     hide_icon: false
     opens_in_new_tab: true
 
