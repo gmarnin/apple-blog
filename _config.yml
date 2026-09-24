@@ -12,7 +12,7 @@ aux_links_new_tab: true
 
 collections:
 nav_external_links:
-  - title: Internal Resource Links:
+  - title: Internal Resource Links
     hide_icon: true
     
   - title: Workspace One
@@ -34,7 +34,7 @@ nav_external_links:
   - title: 
     hide_icon: true
     
-  - title: External Resource Links:
+  - title: External Resource Links
     hide_icon: true
 
   - title: Apple School Manager
