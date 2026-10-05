@@ -12,7 +12,7 @@ END_MARK="<!-- apple-kb-scanner:end -->"
 
 # Static section. Kept above the generated scanner block on every run.
 LINKS_BLOCK=$(cat <<'EOF'
-## OS enterprise and public release notes:
+## OS Enterprise and Public Release Notes:
 
 <br>
 
