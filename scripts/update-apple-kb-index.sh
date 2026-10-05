@@ -59,7 +59,7 @@ trap 'rm -f "$TMP_TSV" "$TMP_MD" "$TMP_PAGE"' EXIT
   if [[ ! -s "$TMP_TSV" ]]; then
     echo "_No Apple Support articles found in the last $DAYS days._"
   else
-    echo "| Updated | Article |"
+    echo "| Updated | Article Title |"
     echo "| --- | --- |"
     while IFS=$'\t' read -r url _label updated title; do
       [[ -z "${url:-}" ]] && continue
