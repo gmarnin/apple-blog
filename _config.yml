@@ -16,8 +16,8 @@ nav_external_links:
   - title: Internal Resource Links
     hide_icon: true
     
-  - title: Workspace One
-    url: https://rutgers.awmdm.com
+  - title: Intune
+    url: https://intune.microsoft.com/#home
     hide_icon: false
     opens_in_new_tab: true
 
@@ -31,6 +31,11 @@ nav_external_links:
     hide_icon: false
     opens_in_new_tab: true
     
+  - title: Workspace One
+    url: https://rutgers.awmdm.com
+    hide_icon: false
+    opens_in_new_tab: true
+       
 
   - title: 
     hide_icon: true
@@ -45,6 +50,11 @@ nav_external_links:
     
   - title: AppleSeed for IT
     url: https://beta.apple.com/for-it
+    hide_icon: false
+    opens_in_new_tab: true
+    
+  - title: Apple Device Management Schema
+    url: https://github.com/apple/device-management
     hide_icon: false
     opens_in_new_tab: true
     
