@@ -3,9 +3,8 @@ title: Apple KBs & Release Notes
 nav_order: 10
 ---
 
-## OS Enterprise and Public Release Notes:
+## OS Enterprise and Public Release Notes
 
-<br>
 
 All [Apple security](https://support.apple.com/en-us/100100) release notes
 
@@ -20,6 +19,8 @@ All [Apple security](https://support.apple.com/en-us/100100) release notes
 [What's new in the updates for macOS Tahoe 26](https://support.apple.com/en-us/122868)
 
 [What's new in the updates for macOS Golden Gate 27](https://support.apple.com/en-us/127257)
+
+<br>
 
 <!-- apple-kb-scanner:start -->
 ## Recent Apple Knowledge Base articles
