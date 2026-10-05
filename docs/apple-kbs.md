@@ -4,7 +4,7 @@ nav_order: 10
 ---
 
 ## OS Enterprise and Public Release Notes
-
+<br>
 
 All [Apple security](https://support.apple.com/en-us/100100) release notes
 
