@@ -33,6 +33,7 @@ nav_order: 1
 
 Welcome to the Rutgers OIT Enterprise Device Management Apple Blog
 
-Here, you will find valuable resources to help you manage your Apple devices
+Here, you will find valuable resources to help you manage your Apple devices. We use Workspace One for macOS and tvOS and Intune for iOS and iPadOS for device management. We also use Munki for macOS application updates. 
 
-Have an idea for this blog or something you would like to see? Please let us know
+
+Have an idea for this blog or something you would like to see? Please [let us know](./docs/support.html)
