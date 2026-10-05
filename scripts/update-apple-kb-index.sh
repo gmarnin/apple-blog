@@ -14,7 +14,6 @@ END_MARK="<!-- apple-kb-scanner:end -->"
 LINKS_BLOCK=$(cat <<'EOF'
 ## OS Enterprise and Public Release Notes:
 
-
 All [Apple security](https://support.apple.com/en-us/100100) release notes
 
 [What's new for enterprise in macOS Tahoe 26](https://support.apple.com/en-us/124963)
