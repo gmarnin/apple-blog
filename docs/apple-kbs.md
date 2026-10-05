@@ -1,9 +1,9 @@
 ---
 title: Apple KBs & Release Notes
-nav_order: 9
+nav_order: 10
 ---
 
-## OS enterprise and public release notes:
+## OS Enterprise and Public Release Notes:
 
 <br>
 
