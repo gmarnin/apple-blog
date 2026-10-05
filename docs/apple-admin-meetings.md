@@ -1,5 +1,5 @@
 ---
-title: Apple Admin Meetings
+title: EDM Apple Admin Meetings
 nav_order: 6
 ---
 
