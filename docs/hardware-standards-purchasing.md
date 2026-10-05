@@ -6,6 +6,7 @@ nav_order: 9
 
 ## Hardware Standards and Purchasing
 
+<br>
 
 [Purchasing Apple devices](https://it.rutgers.edu/computer-standards/purchasing-apple-devices/)
 

@@ -6,6 +6,8 @@ nav_order: 7
 
 ## Edmutil Mac Application
 
+<br>
+
 edmutil is a command line utility designed to troubleshoot Rutgers Munki installations. It provides various commands to gather system information that can help diagnose Munki related issues.
 It is currently installed by default on all Macs that use EDM's Munki service. 
 

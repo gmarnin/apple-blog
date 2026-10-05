@@ -9,6 +9,8 @@ nav_order: 1
 
 Updated 9-16-2026 | Draft Version 1.0 
 
+<br>
+
 Managed Apple Accounts function much like personal Apple Accounts but are specifically designed for, owned, and managed by an organization to
 help increase the productivity of instructors and students and provide the services users may need.
 These accounts are separate from personal Apple Accounts that users create for themselves. This helps to keep organizational data separate from personal data with robust management controls.

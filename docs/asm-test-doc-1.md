@@ -10,6 +10,8 @@ nav_order: 2
 
 Updated 8-25-2026 | Draft Version 1.3 
 
+<br>
+
 > The ASM URL is [https://school.apple.com](https://school.apple.com) - Safari or Chrome recommended
 > 
 > The official [Apple School Manager User Guide](https://support.apple.com/en-ca/guide/apple-school-manager/welcome/web)
