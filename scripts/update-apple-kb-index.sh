@@ -1,13 +1,36 @@
 #!/usr/bin/env bash
-# Run the Apple KB scanner and refresh the generated section in docs/recent_apple_kbs.md
+# Run the Apple KB scanner and refresh docs/apple-kbs.md.
+# Release-note links stay at the top; scanned articles are written underneath.
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-PAGE="$ROOT/docs/recent_apple_kbs.md"
+PAGE="$ROOT/docs/apple-kbs.md"
 SCANNER="$ROOT/scripts/Apple-KB-Scanner.sh"
 DAYS="${1:-7}"
 START_MARK="<!-- apple-kb-scanner:start -->"
 END_MARK="<!-- apple-kb-scanner:end -->"
+
+# Static section. Kept above the generated scanner block on every run.
+LINKS_BLOCK=$(cat <<'EOF'
+## OS enterprise and public release notes:
+
+<br>
+
+All [Apple security](https://support.apple.com/en-us/100100) release notes
+
+[What's new for enterprise in macOS Tahoe 26](https://support.apple.com/en-us/124963)
+
+[What's new for enterprise in macOS Golden Gate 27](https://support.apple.com/en-us/148830)
+
+[What's new for enterprise in iPadOS 27](https://support.apple.com/en-us/148829)
+
+[What's new for enterprise in iOS](https://support.apple.com/en-us/148828)
+
+[What's new in the updates for macOS Tahoe 26](https://support.apple.com/en-us/122868)
+
+[What's new in the updates for macOS Golden Gate 27](https://support.apple.com/en-us/127257)
+EOF
+)
 
 if [[ ! -f "$PAGE" ]]; then
   echo "Missing $PAGE" >&2
@@ -51,28 +74,22 @@ trap 'rm -f "$TMP_TSV" "$TMP_MD" "$TMP_PAGE"' EXIT
   echo "$END_MARK"
 } >"$TMP_MD"
 
-if grep -qF "$START_MARK" "$PAGE" && grep -qF "$END_MARK" "$PAGE"; then
-  # Replace existing generated block
-  awk -v start="$START_MARK" -v end="$END_MARK" -v blockfile="$TMP_MD" '
-    BEGIN {
-      while ((getline line < blockfile) > 0) {
-        block = block line ORS
-      }
-      close(blockfile)
-    }
-    $0 == start { printf "%s", block; skip=1; next }
-    $0 == end { skip=0; next }
-    !skip { print }
-  ' "$PAGE" >"$TMP_PAGE"
-  mv "$TMP_PAGE" "$PAGE"
-else
-  # Append generated block under current page text
-  {
-    cat "$PAGE"
-    echo ""
-    cat "$TMP_MD"
-  } >"$TMP_PAGE"
-  mv "$TMP_PAGE" "$PAGE"
-fi
+# Keep the existing front matter, then the release-note links, then the scan.
+FRONT_MATTER="$(
+  awk '
+    NR == 1 && $0 == "---" { infront = 1 }
+    infront { print }
+    infront && NR > 1 && $0 == "---" { exit }
+  ' "$PAGE"
+)"
+
+{
+  if [[ -n "$FRONT_MATTER" ]]; then
+    printf '%s\n\n' "$FRONT_MATTER"
+  fi
+  printf '%s\n\n' "$LINKS_BLOCK"
+  cat "$TMP_MD"
+} >"$TMP_PAGE"
+mv "$TMP_PAGE" "$PAGE"
 
 echo "Updated $PAGE" >&2
