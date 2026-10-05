@@ -51,7 +51,7 @@ trap 'rm -f "$TMP_TSV" "$TMP_MD" "$TMP_PAGE"' EXIT
 
 {
   echo "$START_MARK"
-  echo "## Recent Apple Knowledge Base articles"
+  echo "## Recent Apple Knowledge Base Articles"
   echo ""
   echo "_Last scan: $(TZ=America/New_York date '+%b %d %Y %-I:%M %p %Z') - showing updates from the past $DAYS days._"
   echo ""
