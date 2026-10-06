@@ -6,6 +6,8 @@ has_children: true
 
 ## Intune Documentation
 
+<br>
+
 Intune is used for iOS and iPadOS device management 
 
 [Microsoft Intune Device Administration](https://rutgers.service-now.com/kb_view.do?sysparm_article=KB0011703)
