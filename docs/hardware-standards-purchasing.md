@@ -1,5 +1,5 @@
 ---
-title: Hardware Standards and Purchasing
+title: Hardware Standards & Purchasing
 nav_order: 9
 ---
 
